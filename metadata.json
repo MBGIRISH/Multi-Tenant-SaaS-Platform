@@ -1,0 +1,8 @@
+{
+  "name": "TeamNexus - Multi-Tenant SaaS Platform",
+  "description": "A production-grade, multi-tenant team productivity and task management platform with role-based access control, analytics dashboard, and automated activity logging.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
